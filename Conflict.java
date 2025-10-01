@@ -24,7 +24,7 @@ public class Conflict {
     }
 
     public static void 박승현() {
-        System.out.println("Hello, 박승현!");
+        System.out.println("202500920 박승현");
     }
 
     public static void 박완렬() {
