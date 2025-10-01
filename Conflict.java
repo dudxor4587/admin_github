@@ -56,7 +56,7 @@ public class Conflict {
     }
 
     public static void 최강연() {
-        System.out.println("Hello, 최강연!");
+        System.out.println("Hello, 202503019 최강연!");
     }
 
     public static void 홍준근() {
