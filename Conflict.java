@@ -44,7 +44,9 @@ public class Conflict {
     }
 
     public static void 임승현() {
-        System.out.println("Conflict");
+
+        System.out.println("Hello, 202503327 임승현!");
+
     }
 
     public static void 정민주() {
