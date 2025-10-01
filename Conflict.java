@@ -52,7 +52,9 @@ public class Conflict {
     }
 
     public static void 진우신() {
-        System.out.println("Conflict");
+
+        System.out.println("202503649 진우신");
+
     }
 
     public static void 최강연() {
