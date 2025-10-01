@@ -31,8 +31,8 @@ public class Conflict {
         System.out.println("Hello, 박완렬!");
     }
 
-    public static void 송명근() {
-        System.out.println("Hello, 송명근!");
+    public static void 안태준() {
+        System.out.println("Hello, 202403770_안태준!");
     }
 
     public static void 윤영서() {
@@ -62,4 +62,5 @@ public class Conflict {
     public static void 홍준근() {
         System.out.println("Hello, 홍준근!");
     }
+
 }
