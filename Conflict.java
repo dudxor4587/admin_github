@@ -20,7 +20,7 @@ public class Conflict {
     }
 
     public static void 박서연() {
-        System.out.println("Hello, 박서연!");
+        System.out.println("202402674 박서연");
     }
 
     public static void 박승현() {
