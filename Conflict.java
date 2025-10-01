@@ -28,7 +28,11 @@ public class Conflict {
     }
 
     public static void 박완렬() {
+
+        System.out.println("Hello,202402676 박완렬!");
+
         System.out.println("Conflict");
+
     }
 
     public static void 송명근() {
