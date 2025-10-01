@@ -12,7 +12,7 @@ public class Conflict {
     }
 
     public static void 김태욱() {
-        System.out.println("Hello, 김태욱!");
+        System.out.println("202202578 김태욱");
     }
 
     public static void 김호성() {
