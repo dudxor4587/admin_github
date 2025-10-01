@@ -31,8 +31,10 @@ public class Conflict {
         System.out.println("Conflict");
     }
 
+
     public static void 송명근() {
         System.out.println("Conflict");
+>>>>>>> dcd92b3f363a50e2269cf84aed159b75ea8c45a1
     }
 
     public static void 윤영서() {
@@ -62,4 +64,5 @@ public class Conflict {
     public static void 홍준근() {
         System.out.println("Conflict");
     }
+
 }
